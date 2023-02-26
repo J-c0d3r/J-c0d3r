@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![](https://komarev.com/ghpvc/?username=J-c0d3r&color=006bed)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=J-c0d3r&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-c0d3r&theme=tokyonight)](https://github.com/J-c0d3r/github-readme-stats)
