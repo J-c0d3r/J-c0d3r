@@ -3,10 +3,16 @@
 ![](https://komarev.com/ghpvc/?username=J-c0d3r&color=006bed)
 
 <div style="display: inline_block">
-  
+<!--  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-c0d3r&show_icons=true&theme=transparent)
 <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-c0d3r)](https://github.com/j-c0d3r/github-readme-stats)
+--!>
+  
+  <img align="center" height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=j-c0d3r&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true"/>
+  <img align="center" height="220" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=j-c0d3r&layout=compact&theme=github_dark&langs_count=5"/>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j-c0d3r&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div style="display: inline_block">
@@ -17,6 +23,7 @@
   <img align="center" alt="J-MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <!--   <img align="center" alt="J-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg"> -->
 </div>
+
 
 
 <!--
