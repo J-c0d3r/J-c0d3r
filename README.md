@@ -10,7 +10,7 @@
 --!>
   
   <img align="center" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=j-c0d3r&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true"/>
-  <img align="center" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=j-c0d3r&layout=compact&theme=github_dark&langs_count=6&hide=html,hlsl,shaderlab,javascript)"/>
+  <img align="center" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=j-c0d3r&layout=compact&theme=github_dark&langs_count=6&hide=html,hlsl,shaderlab,)"/>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j-c0d3r&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
