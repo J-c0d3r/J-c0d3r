@@ -21,7 +21,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 
-<h3>🧪 Testing</h3>
+<h3>🧪 Testing Tools</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="45" height="45"/>
